@@ -1,0 +1,215 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url(https://pbs.twimg.com/media/EZOpqQDXsAIujB8.jpg);
+  background-repeat: no-repeat;
+  background-position:center;
+ background-size: cover;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+}
+h1{
+  color:rgb(255, 123, 0);
+  text-shadow: 0px 2px rgb(255, 234, 0);
+}
+
+.corpo{
+width: 45vw;
+height: 95vh;
+background: rgb(255, 234, 0)
+}
+.corpo{
+  position:relative;
+  left: 28%;
+  bottom: 0;
+  top: 15px;
+  border: solid 3px rgb(255, 195, 0);
+}
+
+.corpo{
+  border-radius: 200px 200px 0px 0px;
+}
+.cilios1e{
+width: 12px ;
+height: 55px ;
+position: relative;
+background: black;
+left: 140px;
+bottom: 310px;
+}
+.cilios2e{
+  width: 12px ;
+  height: 55px ;
+  position: relative;
+  background: black;
+  left: 100px;
+  bottom: 355px;
+  transform: rotate(170deg);
+}
+.cilios3e{
+  width: 12px ;
+  height: 55px ;
+  position: relative;
+  background: black;
+  left: 180px;
+  bottom: 410px;
+  transform: rotate(20deg);
+}
+
+
+
+.olho-esquerdo{
+width: 14vw;
+height: 28vh;
+border-radius: 100px;
+background: white;
+position: relative;
+top: 150px;
+left: 50px;
+border: solid 1px black ;
+z-index: 1;
+}
+.cor-olho-es{
+  width: 60px ;
+  height: 60px ;
+  border-radius: 80px;
+  background: rgb(0, 180, 216);
+  position: relative;
+  top: 65px;
+  left: 65px;
+  border: solid 2px black ;
+  
+}
+.pupila-es{
+  width: 15px;
+  height: 15px;
+  border-radius: 50px;  
+  background: black;
+  position: relative;
+  top: 28px;
+  left: 87px;
+  z-index: 1;
+
+}
+.cilios1d{
+  width: 12px ;
+  height: 55px ;
+  position: relative;
+  background: black;
+  left: 460px;
+  bottom: 470px;  
+}
+.cilios2d{
+  width: 12px ;
+  height: 55px ;
+  position: relative;
+  background: black;
+  left: 420px;
+  bottom: 515px;  
+  transform: rotate(170deg);
+}
+.cilios3d{
+  width: 12px ;
+  height: 55px ;
+  position: relative;
+  background: black;
+  left: 498px;
+  bottom: 570px; 
+  transform: rotate(20deg);
+}
+.olho-direito{
+  width: 14vw;
+height: 28vh;
+border-radius: 100px;
+background: white;
+position: relative;
+left: 370px;
+bottom: 30px;
+border: solid 1px black ;
+z-index: 1;
+}
+.pupila-di{
+  width: 15px;
+  height: 15px;
+  border-radius: 50px;  
+  background: black;
+  position: relative;
+  top: 26px;
+  left: 87px;
+  z-index: 1;
+
+}
+.cor-olho-di{
+  width: 60px ;
+  height: 60px ;
+  border-radius: 80px;
+  background: rgb(0, 180, 216);
+  position: relative;
+  top: 63px;
+  left: 65px;
+  border: solid 2px black ;
+}
+.boca{
+  width: 180px;
+  height: 50px;
+  position: relative;
+  border-radius: 0px 0px 80px 80px ;
+  background: red;
+  bottom: 270px;
+  left: 212px;
+  border: solid 4px tomato;
+}
+.x{
+  width: 22px;
+  height: 30px;
+  background: white;
+  position: relative;
+  bottom: 317px;
+  left: 307px;
+}
+.xe{
+  width: 22px;
+  height: 30px;
+  background: white;
+  position: relative;
+  bottom: 347px;
+  left: 272px;
+}
+.e-mail{
+  position: relative;
+  top: 400px;
+  left: 5px;
+  z-index: 2;
+}
+.senha{
+  position: relative; 
+  top: 402px;
+  left: 5px;
+  z-index: 2;
+}
+button{
+  width: 150px;
+  height: 30px;
+  position: relative;
+  z-index: 10;
+  bottom: 412px;
+  right: 2px;
+  background: rgb(251, 248, 204);
+  color: rgb(144, 219, 244);
+  font-family: Impact;
+  text-shadow: 1px 1px rgb(255, 123, 0);
+  cursor: pointer;
+  border: none;
+}
+
+button:hover{
+color: blue;
+background: white;
+border-radius: 180px;
+transform: scale(1.2);
+
+}
