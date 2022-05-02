@@ -39,7 +39,7 @@ height: 55px ;
 position: relative;
 background: black;
 left: 140px;
-bottom: 310px;
+bottom: 270px;
 }
 .cilios2e{
   width: 12px ;
@@ -47,7 +47,7 @@ bottom: 310px;
   position: relative;
   background: black;
   left: 100px;
-  bottom: 355px;
+  bottom: 315px;
   transform: rotate(170deg);
 }
 .cilios3e{
@@ -56,7 +56,7 @@ bottom: 310px;
   position: relative;
   background: black;
   left: 180px;
-  bottom: 410px;
+  bottom: 370px;
   transform: rotate(20deg);
 }
 
@@ -101,7 +101,7 @@ z-index: 1;
   position: relative;
   background: black;
   left: 460px;
-  bottom: 470px;  
+  bottom: 430px;  
 }
 .cilios2d{
   width: 12px ;
@@ -109,7 +109,7 @@ z-index: 1;
   position: relative;
   background: black;
   left: 420px;
-  bottom: 515px;  
+  bottom: 475px;  
   transform: rotate(170deg);
 }
 .cilios3d{
@@ -118,7 +118,7 @@ z-index: 1;
   position: relative;
   background: black;
   left: 498px;
-  bottom: 570px; 
+  bottom: 530px; 
   transform: rotate(20deg);
 }
 .olho-direito{
